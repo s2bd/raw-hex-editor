@@ -1,4 +1,4 @@
-# hex-editor
+# Cooper Black's Hex Editor
 Need a way to edit raw binaries? Aye, homie, I gotchu.
 
 Can open **any** type of file and exhibit the pure binary contents in hexadecimal format. Driven by the C language.
