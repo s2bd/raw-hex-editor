@@ -1,5 +1,5 @@
 // Horrible Hexes (HH)
-// @author Cooper Black (cooperblacks.github.io)
+// @author Stoobid
 
 #include <stdio.h>
 #include <stdlib.h>
